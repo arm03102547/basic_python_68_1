@@ -1,0 +1,21 @@
+git clone https://github.com/arm03102547/basic_python_68_1
+
+cd name_folder
+cd ..
+ls
+ls -al
+pwd
+
+code .
+
+git init
+git remote add origin https://github.com/arm03102547/basic_python_68_1
+
+git config --global user.name "your name"
+git config --global user.email "your email"
+
+git add a.txt
+git add .
+git commit -m "your message"
+git push origin main
+git pull origin main
