@@ -1,3 +1,3 @@
 # Basic python 68
-ประกอบการสอน IT68 \ 
+ประกอบการสอน IT68 \
 Chayyapol
