@@ -1,7 +1,7 @@
 """
 #
 # Part: Python Operators
-# Arithmettic Operators
+# Arithmetic Operators
 #
 """
 
